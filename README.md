@@ -19,3 +19,8 @@ It's that easy.
 **Note:**  
 A lot of VNs come partially zipped, as a directory containing a `background.zip`, a `sound.zip`, a `script.zip`, etc. This is not yet supported, and will fail to load.  
 For now, just extract the files - all files in `<novel>/script.zip` to `<novel>/script/`, etc.
+
+Controls
+--------
+* __Cross__ - Select/Continue
+* __Start__ - Quick menu
