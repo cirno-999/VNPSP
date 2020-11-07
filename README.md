@@ -11,7 +11,7 @@ Remember to clone submodules too!
 Usage
 -----
 * Put the built EBOOT.PBP in `ms0:/PSP/GAME/VNPSP/`
-* Put a VN or a few in `ms0:/novels/`
+* Put a VN or a few in `ms0:/PSP/GAME/VNPSP/novels/`
 * Activate your CFW and fire up VNPSP
 
 It's that easy.
